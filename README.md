@@ -1,4 +1,4 @@
-[![Masterhead](https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif)]
+![Masterhead](https://imgs.search.brave.com/qS5j8Q78V3OCfrGgPXjAYJxcDotX6qofNDEGiQgwsTs/rs:fit:1200:300:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9mcy81NGI2YzA2/ODA5NzU5OS41YjUw/YmNhNDc2YjliLmdp/Zg.gif)
 <h1 align="center">Hi 👋, I'm Chanh Tran but also known as Cal</h1>
 <h3 align="center">a normal person that is interested in coding and their languages</h3>
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/k3fNpLmzBL2rix9M47bFCTuH3Edy1Ir_SscRY_IB5BQ/rs:fit:480:360:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2U0LzI2/LzcwL2U0MjY3MDJl/ZGY4NzRiMTgxYWNl/ZDFlMmZhNWM2Y2Rl/LmdpZg.gif">
